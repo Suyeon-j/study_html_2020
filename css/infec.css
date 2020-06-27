@@ -1,0 +1,24 @@
+section dl{
+	float: left;
+}
+section ul{
+	margin-left: 30px;
+}
+section a:link{
+	text-decoration: underline;
+}
+#lis1 li{
+	list-style-type: circle;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-weight: bold;
+	font-size: 20px;
+}
+#lis2 li{
+	list-style-type: square;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-left: 20px;
+	font-weight: normal;
+	font-size: 15px;
+}

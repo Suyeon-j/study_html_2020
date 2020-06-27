@@ -1,0 +1,39 @@
+table{
+	margin: auto;
+	width: 880px;
+	table-layout: fixed;
+}
+td{
+	height: 60px;
+	border: 1px solid #CCCCCC;
+	background-color: #EEEEEE;
+	color: #555555;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+}
+.s{
+	border-spacing: 0px;
+}
+#st{
+	border: 1px solid #11264f;
+	border-bottom: 3px solid #11264f;
+	background-color: white;
+	color: #11264f;
+}
+#cir li{
+	margin-left: 35px;
+	padding-top: 10px;
+	list-style-image: url("../img/cir.PNG");
+	padding-bottom: 10px;
+	font-size: 20px;
+	color: #11264f;
+	font-weight: bold;
+}
+#dis li{
+	margin-left: 43px;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	list-style-type: disc;
+	color: #11264f;
+}

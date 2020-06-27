@@ -1,0 +1,31 @@
+section a:link, a:visited{
+	text-decoration: underline;
+	color: #11264f;
+}
+section a:hover{
+	color: blue;
+}
+#sq li{
+	padding-left: 8px;
+	margin-left: 35px;
+	font-weight: bold;
+	list-style-image: url("../img/sq.PNG");
+	font-size: 23px;
+}
+#cir li{
+	padding-left: 8px;
+	margin-left: 38px;
+	font-weight: bold;
+	list-style-image: url("../img/cir.PNG");
+	color: #11264f;
+	font-size: 20px;
+}
+ol{
+	margin-top: 25px;
+}
+#ta{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 40px;
+	font-size: 15px;	
+}

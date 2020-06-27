@@ -1,0 +1,41 @@
+#img1{
+	float: left;
+}
+#wri1{
+	float: right;
+	width: 680px;
+	margin-top: 50px;
+}
+#bor{
+	border-bottom: 1px solid #EEEEEE;
+}
+#ta{
+	display: table;
+	width: 880px;
+}
+#rowg{
+	display: table-row-group;
+}
+#row{
+	display: table-row;
+}
+#cell{
+	display: table-cell;
+	height: 50px;
+	padding-top: 20px;
+	margin: 10px;
+	border: 1px solid black;
+	width: 400px;
+	text-align: center;
+	font-size: 16px;
+}
+#ta a:link{
+	text-decoration: underline;
+}
+#cell:hover{
+	background-color: darkblue;
+	color: white;
+}
+#cell a:hover{
+	color: white;
+}
